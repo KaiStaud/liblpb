@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/hdd/liblpb/build",
-  "command": "/usr/bin/gcc -g -o CMakeFiles/liblpb.dir/lpb_shmem.c.o -c /hdd/liblpb/lpb_shmem.c",
-  "file": "/hdd/liblpb/lpb_shmem.c"
-}
-]
